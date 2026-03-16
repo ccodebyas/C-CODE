@@ -8,7 +8,7 @@ My C programming journey from basics to advanced level.
 - 💻 Environment: Termux + Clang + micro on Android
 
 ## Topics Covered
-- [ ] Basics (variables, loops, functions)
+- [x] Basics (variables, loops, functions)
 - [ ] Arrays
 - [ ] Pointers
 - [ ] Pointer to Pointer
