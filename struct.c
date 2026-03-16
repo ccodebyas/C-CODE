@@ -14,7 +14,7 @@ int main()
 	printf("\n%.2f",pala.marks);
     // dosra
     struct Students dosra ;
-    dosra.age = 18,
+    dosra.age = 18;
     dosra.marks = 92.9;
     printf("\n%d",dosra.age);
     printf("\n%.2f",dosra.marks);
