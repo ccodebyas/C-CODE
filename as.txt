@@ -1,0 +1,2 @@
+Welcome AS!
+AGE = 18
