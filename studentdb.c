@@ -21,7 +21,7 @@ void save(struct Students s)
 
 	fprintf(f,"%s  %d  %.2f\n",s.name,s.age,s.marks);
 	printf("Student Data Saved!.");
-	printf("%s  %d  %f",s.name,s.age,s.marks);
+	printf("%s  %d  %.2f",s.name,s.age,s.marks);
 	fclose(f);
 }
 
